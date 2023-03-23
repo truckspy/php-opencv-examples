@@ -1,0 +1,11 @@
+{
+    "name": "truckspy/opencv",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Flint",
+            "email": "f.holbrook@gmail.com"
+        }
+    ],
+    "require": {}
+}
